@@ -93,6 +93,7 @@ directly addressing the usability issues found in the heuristic evaluation of th
 - Visily — high-fidelity mockups
 - Nielsen's 10 Usability Heuristics — evaluation framework
 
-## 📄 Report
+## 📄Figma Design Link
 
-Full write-up available in [`Crimson_Cup_UI_Redesign_Report.docx`](./Crimson_Cup_UI_Redesign_Report.docx).
+https://www.figma.com/design/TDx78hj4sRHsS5qPWZ1B3D/Thiranex_Internship?node-id=0-1&t=3Gdck6yvfSgQM27f-1
+
